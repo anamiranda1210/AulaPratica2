@@ -4,10 +4,6 @@ body {
     margin: 0;
     padding: 0;
     }
-    .top-bar {
-        background-color: #f4c7c3;
-        height: 50px;
-    }
     .conteúdo{
         max-width: 900px;
         margin: 20px auto;
